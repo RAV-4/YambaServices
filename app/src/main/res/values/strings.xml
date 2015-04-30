@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Yamba</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_tweet">Tweet</string>
+    <string name="hint_status">¿Qué está pasando?</string>
+    <string name="yamba">YambaGr7</string>
+    <string name="title_activity_status_fragment">StatusFragment</string>
+    <string name="title_activity_status">StatusActivity</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="username_summary">What\'s your User name</string>
+    <string name="password_summary">How do you log in</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tweet">Tweet</string>
+    <string name="refresh">Refresh</string>
+    <string name="purge">Purge</string>
+    <string name="interval_summary">How frequency should data refresh?</string>
+    <string name="interval">refresh Interval</string>
+</resources>
